@@ -25,7 +25,7 @@ A self-taught `Full-Stack Mobile Developer`.
 
 - AI
    - `Mistral` • `⭐️` `⭐️⭐️⭐️⭐️`
-   - Waveiate(Vector Database) • `⭐️` `⭐️⭐️⭐️⭐️`
+   - `Waveiate(Vector Database)` • `⭐️` `⭐️⭐️⭐️⭐️`
 
 ### Projects
 - `Second Brain`
